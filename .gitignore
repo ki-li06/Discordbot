@@ -1,4 +1,4 @@
 # Project exclude paths
 /target/
 .idea/
-/src.main.java.JDA.core.Config
+src/main/java/JDA/core/Config.java
