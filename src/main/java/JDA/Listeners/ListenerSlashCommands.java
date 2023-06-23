@@ -3,7 +3,6 @@ package JDA.Listeners;
 import JDA.SimpleCommands.Anyone;
 import JDA.Games.StadtLandFluss.Aktionen.Commands;
 import JDA.Games.StadtLandFluss.TeilvonSpiel.Kategorie;
-import JDA.core.Config;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.Permission;
 import net.dv8tion.jda.api.entities.Member;

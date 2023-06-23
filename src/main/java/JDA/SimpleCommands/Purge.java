@@ -1,6 +1,5 @@
 package JDA.SimpleCommands;
 
-import JDA.core.Config;
 import net.dv8tion.jda.api.events.message.guild.GuildMessageReceivedEvent;
 
 public class Purge {

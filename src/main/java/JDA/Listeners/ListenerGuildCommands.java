@@ -2,7 +2,6 @@ package JDA.Listeners;
 
 import JDA.Games.SchereSteinPapier.SchereSteinPapier;
 import JDA.SimpleCommands.*;
-import JDA.core.Config;
 import JDA.core.Main;
 import net.dv8tion.jda.api.entities.Member;
 import net.dv8tion.jda.api.events.message.guild.GuildMessageReceivedEvent;

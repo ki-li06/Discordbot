@@ -1,6 +1,5 @@
 package JDA.Listeners;
 
-import JDA.core.Config;
 import JDA.core.Main;
 import net.dv8tion.jda.api.entities.User;
 import net.dv8tion.jda.api.events.message.priv.PrivateMessageReceivedEvent;
